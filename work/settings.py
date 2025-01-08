@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'library',
     'ecommerce',
     'authentication',
+    'phonenumber_field',
 ]
 
 MIDDLEWARE = [
